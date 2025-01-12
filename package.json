@@ -1,5 +1,5 @@
 {
-  "name": "lgf_loading",
+  "name": "vc_loading",
   "author": "ViskCY",
   "version": "1.0.0",
   "license": "",
@@ -17,9 +17,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Legacy-Framework/lgf_loading.git"
+    "url": "https://github.com/ViskCY/vc_loading.git"
   },
-  "bugs": "https://github.com/Legacy-Framework/lgf_loading/issues",
+  "bugs": "https://github.com/ViskCY/vc_loading/issues",
   "devDependencies": {
     "@citizenfx/client": "latest",
     "@citizenfx/server": "latest",
