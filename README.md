@@ -1,7 +1,7 @@
-# lgf_loading
+# vc_loading
 
-![](https://img.shields.io/github/downloads/Legacy-Framework/lgf_loading/total?logo=github)
-![](https://img.shields.io/github/v/release/Legacy-Framework/lgf_loading?logo=github)
+![](https://img.shields.io/github/downloads/ViskCY/vc_loading/total?logo=github)
+![](https://img.shields.io/github/v/release/ViskCY/vc_loading?logo=github)
 
 Modern loading screen for FiveM built with TypeScript and React.
 
